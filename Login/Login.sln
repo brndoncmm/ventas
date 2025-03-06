@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34729.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{1BD73C5B-FE67-416E-AE1E-EAFE0988A29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL.Rentas", "BL.Rentas\BL.Rentas.csproj", "{CF96A515-4EB4-4427-BDAD-839D2344DEE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD73C5B-FE67-416E-AE1E-EAFE0988A29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD73C5B-FE67-416E-AE1E-EAFE0988A29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD73C5B-FE67-416E-AE1E-EAFE0988A29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD73C5B-FE67-416E-AE1E-EAFE0988A29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF96A515-4EB4-4427-BDAD-839D2344DEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF96A515-4EB4-4427-BDAD-839D2344DEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF96A515-4EB4-4427-BDAD-839D2344DEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF96A515-4EB4-4427-BDAD-839D2344DEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C84C84E-353D-4623-9F6A-124039749A24}
+	EndGlobalSection
+EndGlobal

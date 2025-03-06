@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Prueba
+namespace Login
 {
-    public partial class Form1 : Form
+    public partial class FormClientes : Form
     {
-        public Form1()
+        public FormClientes()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-           
         }
     }
 }
